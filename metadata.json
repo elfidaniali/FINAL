@@ -1,0 +1,5 @@
+{
+  "name": "Domain Health Manager",
+  "description": "An admin dashboard to manage domain health, monitor status, and simulate smart redirects. It uses Gemini API to provide AI-powered health checks.",
+  "requestFramePermissions": []
+}
